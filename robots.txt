@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jsimaoisel.github.io/blog/sitemap.xml
+Sitemap: https://jsimaoisel.github.io/sitemap.xml
