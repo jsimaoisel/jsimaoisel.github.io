@@ -2,11 +2,22 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: José Simão
+    # - name: Date of Birth
+    #   value: 1977
+    - name: Phone
+      value: (+351) 218 317 000
+    - name: URL
+      value: https://jsimaoisel.github.io/
+    # "location": {
+    #   "address": "Rua Conselheiro Emídio Navaro 1",
+    #   "postalCode": "1959-007 Lisboa",
+    #   "city": "Lisboa",
+    #   "countryCode": "",
+    #   "region": ""
+    # },
     - name: Languages
-      value: English, German
+      value: Portuguese, English
 
 - title: Education
   type: time_table

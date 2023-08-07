@@ -2,25 +2,24 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.isel.pt'>ISEL</a>, <a href='https://www.ipl.pt'>IPL</a>, <a href='https://fit.isel.pt'>FIT-ISEL</a>, <a href='https://www.inesc-id.pt'>INESC-ID Lisboa</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_js.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  #  <p>ISEL, Room F.0.15</p>
+  #  <p>Lisboa</p>
+  #  <p>Portugal</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+José is a Professor Adjunto at the Engineering School of the Polytechnic Institute of Lisbon ([ISEL](https://www.isel.pt) // [IPL](https://www.ipl.pt)), where he teachs in the areas of distributed systems, cloud computing and computer security. He holds a PhD in Informatics and Computer Engineering from ULisboa (IST), supervised by Prof [Luís Veiga](https://www.dpss.inesc-id.pt/~lveiga/) and is a researcher at INESC-ID Lisboa with the [Distributed Systems Group](https://www.dpss.inesc-id.pt). At ISEL, he is a member of [Future Internet Technologies (FIT)](https://fit.isel.pt), a research group with a strong connection to society, small businesses and local authorities. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+His research is focused on cloud infrastructure and services, particularly Serverless architectures, and computer security, with an emphasis on software techniques for vulnerability detection. He has published 10 journal articles and book chapters, as well as more than 20 IEEE and ACM conference papers. He is currently a member of the coordination board of the computer engineering and informatics bachelor ([LEIC](https://www.isel.pt/en/curso/bsc-degree/computer-science-and-computer-engineering)) and master ([MEIC](https://www.isel.pt/en/curso/masters-degree/master-computer-science-and-engineering)) degrees at ISEL.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.

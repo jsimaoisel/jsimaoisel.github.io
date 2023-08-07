@@ -1,77 +1,167 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "José Simão",
+    "label": "Professor of Computer Science and Engineering",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    // "email": "jose.simao@isel.pt",
+    "phone": "(+351) 218 317 000",
+    "url": "https://jsimaoisel.github.io/",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Rua Conselheiro Emídio Navaro 1",
+      "postalCode": "1959-007 Lisboa",
+      "city": "Lisboa",
+      "countryCode": "",
+      "region": ""
     },
     "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": [
-        "Relativity"
-      ]
+      "name": "Board of Representatives of Instituto Superior de Engenharia de Lisboa",
+      "position": "Member (<i>substitute</i>) of Board of Representatives",
+      "url": "https://www.isel.pt/quem-somos/conselho-representantes",
+      "startDate": "2021",
+      "endDate": "",
+      "summary": ""
+    },
+    {
+      "name": "Coordination Comission of the Licenciate Degree in Informatics and Computer Engineering, ISEL, IPL",
+      "position": "Member of the Coordination Commission",
+      "url": "https://www.isel.pt/curso/licenciatura/licenciatura-em-engenharia-informatica-e-de-computadores",
+      "startDate": "2018",
+      "endDate": "",
+      "summary": ""
+    },
+    {
+      "name": "Coordination Comission of the Master Degree in Informatics and Computer Engineering, ISEL, IPL",
+      "position": "Member of the Coordination Commission",
+      "url": "https://www.isel.pt/curso/licenciatura/licenciatura-em-engenharia-informatica-e-de-computadores",
+      "startDate": "2018",
+      "endDate": "",
+      "summary": ""
+    },
+    {
+      "name": "Instituto Superior de Engenharia de Lisboa, Instituto Politécnico de Lisboa",
+      "position": "Professor Adjunto",
+      "url": "https://www.isel.pt",
+      "startDate": "2015",
+      "endDate": "",
+      "summary": "",
+      "highlights": ["Distributed Systems", "Cloud Computing", "Cybersecurity", "Computer Security", "Software Engineering", "Programming"]
+    },
+    {
+      "name": "Instituto Superior de Engenharia de Lisboa, Instituto Politécnico de Lisboa",
+      "position": "Professor Assistente 1º e 2º Triénio",
+      "url": "https://www.isel.pt",
+      "startDate": "2001",
+      "endDate": "2015",
+      "summary": "",
+      "highlights": []
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University of Lisbon",
+      "url": "https://tecnico.ulisboa.pt/pt/",
+      "area": "Informatics and Computer Engineering (Cloud Computing)",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "startDate": "2010-03",
+      "endDate": "2015-04",
+      "score": "Aproved with distinction",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Lisbon",
+      "url": "https://tecnico.ulisboa.pt/pt/",
+      "area": "Informatics and Computer Engineering (Distributed Systems, Computer Security)",
+      "studyType": "MSc",
+      "startDate": "2004",
+      "endDate": "2008",
       "score": "",
       "courses": [
-        "Theory of Relativity"
+      ]
+    },
+    {
+      "institution": "Instituto Superior de Engenharia de Lisboa",
+      "url": "https://www.isel.pt/en/",
+      "area": "Informatics and Computer Engineering",
+      "studyType": "BSc and Lic.",
+      "startDate": "1995",
+      "endDate": "2001",
+      "score": "",
+      "courses": [
       ]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Nominee for best PhD student of INESC-ID Lisboa",
+      "date": "2014",
+      "awarder": "INESC-ID Lisboa",
+      "url": "https://www.inesc-id.pt/news-events/awards/"
+    },
+    {
+      "title": "Best paper Runner-up at IEEE CloudCom 2013",
+      "date": "2013",
+      "awarder": "IEEE CloudCom 2013 Organizational Committee"
+      // "url": ""
     }
   ],
   "certificates": [],
   "publications": [],
   "skills": [],
   "languages": [
+    // {
+    //   "language": "Portuguese",
+    //   "fluency": "Native speaker"
+    // },
+    // {
+    //   "language": "English",
+    //   "fluency": "Fluent"
+    // }
+  ],
+  "interests": [
+  ],
+  "references": [],
+  "consultancy": [
     {
-      "language": "German",
-      "fluency": "Native speaker"
+      "name": "Technical advisory in Information Systems for Learning and Education Management",
+      "highlights": ["Systems Integrations", "Educational Resource Management", "Cybersecurity"],
+      "startDate": "2023",
+      "endDate": ""
+      // "url": "https://www.dge.mec.pt"
     },
     {
-      "language": "English",
-      "fluency": "Fluent"
+      "name": "Consultancy services for Lisbon City Council",
+      "highlights": ["Cloud Services", "Cybersecurity", "Data Analysis", "Systems Integrations", "Parking Systems", "IoT Applications", "Training"],
+      "startDate": "2019",
+      "endDate": "",
+      "url": "https://lisboaaberta.cm-lisboa.pt/index.php/pt/"
+    },
+    {
+      "name": "Consultancy services in the Area of Mobile Payments",
+      "highlights": ["Mobility-as-a-Service", "Mobile Payments", "Security Protocols"],
+      "startDate": "2018-01",
+      "endDate": "2018-07"
+      // "url": "https://lisboaaberta.cm-lisboa.pt/index.php/pt/"
+    },
+    {
+      "name": "Development of security services for the National Security Office",
+      "highlights": ["Cryptography", "Public Key Infrastructures", "Security Protocols"],
+      "startDate": "2006",
+      "endDate": "2010",
+      "url": "https://www.gns.gov.pt"
+    },
+    {
+      "name": "Technical advisory to the Portuguese Army",
+      "highlights": ["Cryptography", "Software-defined Radio", "Security Protocols"],
+      "startDate": "2006",
+      "endDate": "2010",
+      "url": "https://www.exercito.pt/pt/"
     }
-  ],
-  "interests": [],
-  "references": [],
-  "projects": []
+  ]
 }
