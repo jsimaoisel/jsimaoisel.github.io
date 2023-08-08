@@ -1,6 +1,18 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"EuroSys '19":
+  url: https://eurosys2019.org
+  # color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"IEEE TCC":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6245519
+
+"FI":
+  url: "https://www.mdpi.com/journal/futureinternet"
+
+"Springer CC":
+  url: https://link.springer.com/chapter/10.1007/978-3-319-54645-2_3
+
+"Algorithms":
+  url: https://www.mdpi.com/journal/algorithms
+
+"ESOCC":
+  url: https://link.springer.com/book/10.1007/978-3-031-23298-5

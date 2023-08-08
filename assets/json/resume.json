@@ -61,7 +61,21 @@
       "highlights": []
     }
   ],
-  "volunteer": [],
+  "service": [
+    {
+      "name": "Inforum track on Parallel, Distributed and Large-Scale Computing (CPDLA)",
+      "position": "Member of the review committee",
+      "url": "https://inforum.org.pt",
+      "startDate": "2016"
+    },
+    {
+      "name": "Inforum track on Parallel, Distributed and Large-Scale Computing (CPDLA)",
+      "position": "Track Chair",
+      "startDate": "2018",
+      "url": "https://inforum.org.pt",
+      "endDate": "2019"
+    }
+  ],
   "education": [
     {
       "institution": "University of Lisbon",
@@ -159,8 +173,8 @@
     {
       "name": "Technical advisory to the Portuguese Army",
       "highlights": ["Cryptography", "Software-defined Radio", "Security Protocols"],
-      "startDate": "2006",
-      "endDate": "2010",
+      "startDate": "2005",
+      "endDate": "2005",
       "url": "https://www.exercito.pt/pt/"
     }
   ]
