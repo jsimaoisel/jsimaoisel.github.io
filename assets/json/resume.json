@@ -55,7 +55,7 @@
       "name": "Instituto Superior de Engenharia de Lisboa, Instituto Politécnico de Lisboa",
       "position": "Professor Assistente 1º e 2º Triénio",
       "url": "https://www.isel.pt",
-      "startDate": "2001",
+      "startDate": "2002",
       "endDate": "2015",
       "summary": "",
       "highlights": []
@@ -63,8 +63,20 @@
   ],
   "service": [
     {
+      "name": "MDPI Algortihms",
+      "position": "Topical Advisory Panel Member",
+      "url": "https://www.mdpi.com/journal/algorithms/topical_advisory_panel",
+      "startDate": "2023"
+    },
+    {
+      "name": "i-ETC Journal",
+      "position": "Section Editor",
+      "url": "http://journals.isel.pt/index.php/i-ETC/about/editorialTeam",
+      "startDate": "2019"
+    },
+    {
       "name": "Inforum track on Parallel, Distributed and Large-Scale Computing (CPDLA)",
-      "position": "Member of the review committee",
+      "position": "Member of the Programm committee",
       "url": "https://inforum.org.pt",
       "startDate": "2016"
     },
@@ -74,13 +86,31 @@
       "startDate": "2018",
       "url": "https://inforum.org.pt",
       "endDate": "2019"
+    },
+    {
+      "name": "Reviwer of National and International Conferences",
+      "position": "Reviewer and sub-reviewer",
+      "url": "https://www.isel.pt",
+      "startDate": "2012",
+      "endDate": "",
+      "summary": "",
+      "highlights": ["Encontro Nacional de Sistemas Distribuídos 2022", "Iternational Workshop on Cloud Data and Platforms (2013)", "IFIP International Conference on Distributed Applications and Interoperable Systems (2014)", "Middleware (2015, 2016)", "IEEE International Conference on Distributed Computing Systems (2022)", "Euro-Par 2021", "Runtime Environments, Systems, Layering and Virtualized Environments (RESoLVE)", "International Workshop on Cloud Data and Platforms (2013)"]
+    },
+    {
+      "name": "Reviwer of International Journals",
+      "position": "Reviewer",
+      "url": "https://www.isel.pt",
+      "startDate": "2017",
+      "endDate": "",
+      "summary": "",
+      "highlights": ["IEEE Access", "IEEE Transactions on Network and Service Management", "IEEE Transactions on Sustainable Computing", "IEEE Transaction on Cloud Computing", "IEEE Transactions on Emerging Topics in Computing", "MDPI Future Internet", "MDPI ", "Elsevier - Computer Communications", "Programming"]
     }
   ],
   "education": [
     {
       "institution": "University of Lisbon",
       "url": "https://tecnico.ulisboa.pt/pt/",
-      "area": "Informatics and Computer Engineering (Cloud Computing)",
+      "area": "Informatics and Computer Engineering (Cloud Computing, Managed Runtimes)",
       "studyType": "PhD",
       "startDate": "2010-03",
       "endDate": "2015-04",
@@ -138,7 +168,56 @@
     //   "fluency": "Fluent"
     // }
   ],
-  "interests": [
+  "projects": [
+    {
+      "name": "Ferrovia 4.0",
+      "highlights": ["<b>Funding</b>: Programas Mobilizadores", "Edge Computing", "Data analysis", "Cybersecurity"],
+      "position": "Researcher",
+      "startDate": "2020",
+      "endDate": "2023",
+      "url": "http://ferrovia40.pt"
+    },
+    {
+      "name": "QCI - Portuguese Quantum Communication Infrastructure",
+      "highlights": ["<b>Funding</b>: EU, Horizon Europe", "Quantum Key Distribution", "Cryptography", "Security Protocols"],
+      "startDate": "2023",
+      "url": "https://www.isel.pt/investigacao-e-inovacao/ecossistema-de-inovacao/projetos/2023/ptqci"
+    },
+    {
+      "name": "Custodian",
+      "highlights": ["<b>Funding</b>: EEA Grants Iceland, Liechtenstein, Norway Grants", "Security Protocols", "Cloud Computing"],
+      "startDate": "2022",
+      "url": "https://custodian.solvit.pt"
+    },
+    {
+      "name": "Fast-IntOp",
+      "highlights": ["<b>Funding</b>: Instituto Politécnico de Lisboa", "Serverless", "Functions-as-a-Service", "Cloud Computing", "Interopeability"],
+      "startDate": "2021-09",
+      "endDate": "2022-07",
+      "url": "https://github.com/ISEL-DEETC/quickfaas-essentials"
+    },
+    {
+      "name": "PLANO-A-SAÚDE-C19 - PLAtaforma Nacional de Observação e Acompanhamento da SAÚDE para doenças crónicas e Covid-19",
+      "highlights": ["<b>Funding</b>: Agência Nacional de Inovação", "Cloud Computing", "Blockchain"],
+      "startDate": "2020",
+      "endDate": "2021",
+      "url": "https://www.isel.pt/investigacao-e-inovacao/ecossistema-de-inovacao/projetos/2020/plano-a-saude-c19"
+    },
+    {
+      "name": "novaVM - New Java Virtual Machine for Big Data (nova VM)",
+      "highlights": ["<b>Funding</b>: Fundação para a Ciência e Tecnologia (FCT)", "Cloud Computing", "Blockchain"],
+      "startDate": "2018",
+      "endDate": "2022",
+      "url": "https://www.inesc-id.pt/projects/II02071/"
+    },
+    {
+      "name": "Middleware and Context Inference Techniques from Data Streams for the Development of ContextAware Services using Mobile Devices (CONTEXTWA)",
+      "highlights": ["<b>Funding</b>: Fundação para a Ciência e Tecnologia (FCT)", "Cloud Computing", "Mobile devices", "Context-aware applications"],
+      "startDate": "2016",
+      "endDate": "2019",
+      "url": "https://www.inesc-id.pt/wp-content/uploads/2019/10/CONTEXTWA.pdf"
+    }
+    
   ],
   "references": [],
   "consultancy": [
@@ -147,7 +226,6 @@
       "highlights": ["Systems Integrations", "Educational Resource Management", "Cybersecurity"],
       "startDate": "2023",
       "endDate": ""
-      // "url": "https://www.dge.mec.pt"
     },
     {
       "name": "Consultancy services for Lisbon City Council",
@@ -173,8 +251,8 @@
     {
       "name": "Technical advisory to the Portuguese Army",
       "highlights": ["Cryptography", "Software-defined Radio", "Security Protocols"],
-      "startDate": "2005",
-      "endDate": "2005",
+      "startDate": "2005-02",
+      "endDate": "2005-06",
       "url": "https://www.exercito.pt/pt/"
     }
   ]

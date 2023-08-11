@@ -4,7 +4,7 @@ title: Distributed Computing
 # description: a project with a background image and giscus comments
 # img: assets/img/3.jpg
 importance: 11
-category: meic
+category: graduate
 # giscus_comments: true
 ---
 

@@ -4,7 +4,7 @@ title: Cybersecurity
 # description: a project with a background image and giscus comments
 # img: assets/img/3.jpg
 importance: 10
-category: meic
+category: graduate
 # giscus_comments: true
 ---
 

@@ -4,7 +4,7 @@ title: Virtual Execution Environments
 # description: a project with a background image and giscus comments
 # img: assets/img/3.jpg
 importance: 5
-category: leic
+category: undergraduate
 # giscus_comments: true
 ---
 

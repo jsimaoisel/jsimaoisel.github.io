@@ -4,7 +4,7 @@ title: Advanced Topics in Computer Security and Networking
 # description: a project with a background image and giscus comments
 # img: assets/img/3.jpg
 importance: 12
-category: meic
+category: graduate
 # giscus_comments: true
 ---
 
