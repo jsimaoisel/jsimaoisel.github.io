@@ -17,11 +17,12 @@
   "education": [
     {
       "institution": "University of Lisbon",
+      "tile": "Hello",
       "url": "https://tecnico.ulisboa.pt/pt/",
       "area": "Informatics and Computer Engineering (Cloud Computing, Managed Runtimes)",
       "studyType": "PhD",
-      "startDate": "2010-03",
-      "endDate": "2015-04",
+      "startDate": "2010",
+      "endDate": "2015",
       "score": "Aproved with distinction",
       "courses": [
       ]
@@ -67,17 +68,17 @@
       "summary": ""
     },
     {
-      "name": "Coordination Comission of the Licenciate Degree in Informatics and Computer Engineering, ISEL, IPL",
-      "position": "Member of the Coordination Commission",
+      "name": "Coordinating Committee of the Licenciate Degree in Informatics and Computer Engineering, ISEL, IPL",
+      "position": "Member of the Coordinating Committee",
       "url": "https://www.isel.pt/curso/licenciatura/licenciatura-em-engenharia-informatica-e-de-computadores",
       "startDate": "2018",
       "endDate": "2025",
       "summary": ""
     },
     {
-      "name": "Coordination Comission of the Master Degree in Informatics and Computer Engineering, ISEL, IPL",
-      "position": "Member of the Coordination Commission",
-      "url": "https://www.isel.pt/curso/licenciatura/licenciatura-em-engenharia-informatica-e-de-computadores",
+      "name": "Coordinating Committee of the Master Degree in Informatics and Computer Engineering, ISEL, IPL",
+      "position": "Member of the Coordinating Committee",
+      "url": "https://www.isel.pt/curso/mestrado/mestrado-em-engenharia-informatica-e-de-computadores",
       "startDate": "2018",
       "endDate": "",
       "summary": ""
@@ -103,7 +104,7 @@
   ],
   "groups": [
     {
-      "name": "Researcher @ FIT",
+      "name": "Researcher @ FIT (group coordinator)",
       "startDate": "2020"
     },
     {
@@ -136,15 +137,15 @@
     },
     {
       "name": "Inforum track on Parallel, Distributed and Large-Scale Computing (CPDLA)",
-      "position": "Member of the Programm committee",
-      "url": "https://inforum.org.pt",
+      "position": "Member of the Technical committee",
+      "url": "https://inforum2025.xdi.uevora.pt/index.php/cfp/",
       "startDate": "2016"
     },
     {
       "name": "Inforum track on Parallel, Distributed and Large-Scale Computing (CPDLA)",
       "position": "Track Chair",
       "startDate": "2018",
-      "url": "https://inforum.org.pt",
+      "url": "https://inforum2025.xdi.uevora.pt/index.php/cfp/",
       "endDate": "2019"
     },
     {
@@ -234,7 +235,7 @@
       "position": "Lead Researcher",
       "startDate": "2023",
       "endDate": "2026",
-      "url": "http://ferrovia40.pt"
+      "url": "https://aate.pt"
     },
     {
       "name": "C-Streets",
