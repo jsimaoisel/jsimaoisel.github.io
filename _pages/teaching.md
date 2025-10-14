@@ -13,7 +13,6 @@ I have been teaching in higher education for over 25 years, beginning in 1998 as
 
 #### Current Courses
 
-{: .note }
 **Cloud Computing** - _Coordinator since 2016_
 
 - Introduction to distributed systems concepts
@@ -54,8 +53,6 @@ I have been teaching in higher education for over 25 years, beginning in 1998 as
 - Offered to MEIC and MEIM programs
 
 #### Previous Courses
-
-{: .note }
 
 - Introduction to Programming
 - Algorithms and Data Structures

@@ -11,11 +11,7 @@ Over the years, I supervised or co-supervised more than 70 students across Maste
 
 ### (Co-)Supervisions between 2021-2025
 
-{: .note }
-
 #### Master in Informatics and Computer Engineering
-
-{: .note .small}
 
 | Year | Student.                 | Thesis / Project Title                                                |
 | ---- | ------------------------ | --------------------------------------------------------------------- |
@@ -40,15 +36,11 @@ Over the years, I supervised or co-supervised more than 70 students across Maste
 
 #### Master in Informatics and Multimedia Engineering
 
-{: .note .small}
-
 | Year | Student                 | Thesis / Project Title     |
 | ---- | ----------------------- | -------------------------- |
 | 2024 | Gonçalo Nunes (ongoing) | Phishing detection service |
 
 #### Master in Electronic and Telecommunications Engineering
-
-{: .note .small}
 
 | Year | Student               | Thesis / Project Title                                                               |
 | ---- | --------------------- | ------------------------------------------------------------------------------------ |
@@ -56,8 +48,6 @@ Over the years, I supervised or co-supervised more than 70 students across Maste
 | 2021 | Filipe Costa          | _Integration of an Intrusion Detection System into a Railway Communications Gateway_ |
 
 #### Bachelor in Informatics and Computer Engineering
-
-{: .note .small}
 
 | Year | Student(s)                             | Project Title                                                         |
 | ---- | -------------------------------------- | --------------------------------------------------------------------- |
@@ -72,8 +62,6 @@ Over the years, I supervised or co-supervised more than 70 students across Maste
 | 2021 | Afonso Nobre, Ricardo Silva            | _5G QoS Analysis Application_                                         |
 
 #### Bachelor in Computer Networks and Telecommunications Engineering
-
-{: .note .small}
 
 | Year | Student(s)                     | Project Title                            |
 | ---- | ------------------------------ | ---------------------------------------- |
