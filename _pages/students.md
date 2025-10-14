@@ -37,6 +37,13 @@ Over the years, I supervised or co-supervised more than 70 students across Maste
 | 2021 | Caio Gedan                   | *Complex Event Processing for C-ITS Message Dissemination*            |
 
 
+#### Master in Informatics and Multimedia Engineering
+{: .note .small}
+
+| Year | Student      | Thesis / Project Title                  |                                                           
+|------|--------------|-----------------------------------------|
+| 2024 | Gonçalo Nunes (ongoing)  | Phishing detection service |
+
 #### Master in Electronic and Telecommunications Engineering
 {: .note .small}
 

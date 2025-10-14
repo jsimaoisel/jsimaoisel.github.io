@@ -9,4 +9,3 @@ description: A summary of my teaching, research and management activities
 toc:
   sidebar: left
 ---
-  

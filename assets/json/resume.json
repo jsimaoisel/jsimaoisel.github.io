@@ -11,8 +11,7 @@
       "countryCode": "",
       "region": ""
     },
-    "profiles": [
-    ]
+    "profiles": []
   },
   "education": [
     {
@@ -24,8 +23,7 @@
       "startDate": "2010",
       "endDate": "2015",
       "score": "Aproved with distinction",
-      "courses": [
-      ]
+      "courses": []
     },
     {
       "institution": "University of Lisbon",
@@ -35,8 +33,7 @@
       "startDate": "2004",
       "endDate": "2008",
       "score": "",
-      "courses": [
-      ]
+      "courses": []
     },
     {
       "institution": "Instituto Superior de Engenharia de Lisboa",
@@ -46,8 +43,7 @@
       "startDate": "1995",
       "endDate": "2001",
       "score": "",
-      "courses": [
-      ]
+      "courses": []
     }
   ],
   "work": [
@@ -156,13 +152,15 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Encontro Nacional de Sistemas Distribuídos 2022", 
-        "Iternational Workshop on Cloud Data and Platforms (2013)", 
-        "IFIP International Conference on Distributed Applications and Interoperable Systems (2014)", 
-        "Middleware (2015, 2016)", 
-        "IEEE International Conference on Distributed Computing Systems (2022)", "Euro-Par 2021", 
-        "Runtime Environments, Systems, Layering and Virtualized Environments (RESoLVE)", 
-        "International Workshop on Cloud Data and Platforms (2013)"]
+        "Encontro Nacional de Sistemas Distribuídos 2022",
+        "Iternational Workshop on Cloud Data and Platforms (2013)",
+        "IFIP International Conference on Distributed Applications and Interoperable Systems (2014)",
+        "Middleware (2015, 2016)",
+        "IEEE International Conference on Distributed Computing Systems (2022)",
+        "Euro-Par 2021",
+        "Runtime Environments, Systems, Layering and Virtualized Environments (RESoLVE)",
+        "International Workshop on Cloud Data and Platforms (2013)"
+      ]
     },
     {
       "name": "Reviwer of International Journals",
@@ -171,16 +169,18 @@
       "startDate": "2017",
       "endDate": "",
       "summary": "",
-      "highlights": ["IEEE Access", 
-      "IEEE Transactions on Network and Service Management", 
-      "IEEE Transactions on Sustainable Computing", 
-      "IEEE Transaction on Cloud Computing", 
-      "IEEE Transactions on Emerging Topics in Computing", 
-      "MDPI Future Internet", "MDPI ", 
-      "Elsevier - Computer Communications", 
-      "Springer - Journal of Network and Systems Management",
-      "Springer - The Journal of Supercomputing",
-      "Springer - Cluster Computing"
+      "highlights": [
+        "IEEE Access",
+        "IEEE Transactions on Network and Service Management",
+        "IEEE Transactions on Sustainable Computing",
+        "IEEE Transaction on Cloud Computing",
+        "IEEE Transactions on Emerging Topics in Computing",
+        "MDPI Future Internet",
+        "MDPI ",
+        "Elsevier - Computer Communications",
+        "Springer - Journal of Network and Systems Management",
+        "Springer - The Journal of Supercomputing",
+        "Springer - Cluster Computing"
       ]
     }
   ],
@@ -204,17 +204,15 @@
       // "url": ""
     }
   ],
-  "certificates": [
-    
-  ],
+  "certificates": [],
   "publications": [],
   "skills": [
-    { 
+    {
       "name": "Staff Development Programme for Excellence in Teaching and Learning",
       "date": "2010"
     },
     {
-      "name": "Coaching and Tutoring Course ", 
+      "name": "Coaching and Tutoring Course ",
       "date": "2010"
     }
   ],
@@ -312,12 +310,7 @@
     },
     {
       "name": "Research Projects",
-      "highlights": [
-        "Consistency in replicated objects", 
-        "Security Policies", 
-        "Windows Device Drivers",
-        "RDIS"
-      ],
+      "highlights": ["Consistency in replicated objects", "Security Policies", "Windows Device Drivers", "RDIS"],
       "startDate": "1999",
       "endDate": "2011"
     }
