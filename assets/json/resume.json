@@ -48,6 +48,22 @@
   ],
   "work": [
     {
+      "name": "Scientific-Technical Council of Instituto Superior de Engenharia de Lisboa",
+      "position": "Representative of the Department of Computer Science and Engineering (DEI)",
+      "url": "https://isel.pt/quem-somos/conselho-tecnico-cientifico",
+      "startDate": "2025-11",
+      "endDate": "",
+      "summary": ""
+    },
+    {
+      "name": "ANI – Agência Nacional de Inovação",
+      "position": "Expert (Cibersegurança, TIC na Administração Pública, TIC nas Empresas)",
+      "url": "https://ani.pt",
+      "startDate": "2023-05",
+      "endDate": "",
+      "summary": ""
+    },
+    {
       "name": "Board of Representatives of Instituto Superior de Engenharia de Lisboa",
       "position": "Member (<i>substitute</i>) of Board of Representatives",
       "url": "https://www.isel.pt/quem-somos/conselho-representantes",
@@ -59,8 +75,8 @@
       "name": "Board of Representatives of Instituto Superior de Engenharia de Lisboa",
       "position": "Member (<i>effective</i>) of Board of Representatives",
       "url": "https://www.isel.pt/quem-somos/conselho-representantes",
-      "startDate": "2025-03",
-      "endDate": "",
+      "startDate": "2025-02",
+      "endDate": "2025-11",
       "summary": ""
     },
     {
@@ -176,11 +192,11 @@
         "IEEE Transaction on Cloud Computing",
         "IEEE Transactions on Emerging Topics in Computing",
         "MDPI Future Internet",
-        "MDPI ",
         "Elsevier - Computer Communications",
         "Springer - Journal of Network and Systems Management",
         "Springer - The Journal of Supercomputing",
-        "Springer - Cluster Computing"
+        "Springer - Cluster Computing",
+        "Springer - Journal of Cloud Computing"
       ]
     }
   ],
