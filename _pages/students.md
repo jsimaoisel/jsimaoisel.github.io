@@ -257,10 +257,10 @@ nav_order: 3
     <strong>Student Supervision</strong>
     <p>
       Over the years, I supervised or co-supervised more than <strong>70 students</strong> across
-      Master's and Bachelor's programmes (MEIC, MEET, LEIC, LEIRT, and LEIM) at ISEL/IPL.
+      Master's and Bachelor's programmes (MEIC, MEET, LEIC, LEIRT, and LEIM) at ISEL/IPL and IST/ULisboa.
       These works span distributed systems, cloud &amp; edge computing, cybersecurity, IoT,
       and mobile devices — often resulting in publications and applied research outcomes.
-      The records below cover <strong>2021–2025.</strong>
+      The records below cover 2021–2025.
     </p>
   </div>
 
