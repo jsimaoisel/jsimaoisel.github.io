@@ -260,7 +260,7 @@ nav_order: 3
       Master's and Bachelor's programmes (MEIC, MEET, LEIC, LEIRT, and LEIM) at ISEL/IPL.
       These works span distributed systems, cloud &amp; edge computing, cybersecurity, IoT,
       and mobile devices — often resulting in publications and applied research outcomes.
-      The records below cover <strong>2021–2025</strong>.
+      The records below cover <strong>2021–2025.</strong>
     </p>
   </div>
 
@@ -292,7 +292,7 @@ nav_order: 3
     </div>
     <div class="sv-cards">
 
-      <div class="sv-card ongoing">
+      <div class="sv-card">
         <div class="sv-year">2025</div>
         <div class="sv-main">
           <p class="sv-title">QuickFaaS + OmniFlow</p>
@@ -301,22 +301,22 @@ nav_order: 3
         <div class="sv-badge"><span class="sv-ongoing-badge">Ongoing</span></div>
       </div>
 
-      <div class="sv-card ongoing">
+      <div class="sv-card">
         <div class="sv-year">2024</div>
         <div class="sv-main">
           <p class="sv-title">Advanced Function Composition in Serverless Platforms</p>
           <div class="sv-students"><span class="sv-student-chip">Tiago Silva</span></div>
         </div>
-        <div class="sv-badge"><span class="sv-ongoing-badge">Ongoing</span></div>
+        <div class="sv-badge"></div>
       </div>
 
-      <div class="sv-card ongoing">
+      <div class="sv-card">
         <div class="sv-year">2024</div>
         <div class="sv-main">
           <p class="sv-title">Data-Driven Optimisation of Multimodal Public Transport System</p>
           <div class="sv-students"><span class="sv-student-chip">João Cravo</span></div>
         </div>
-        <div class="sv-badge"><span class="sv-ongoing-badge">Ongoing</span></div>
+        <div class="sv-badge"></div>
       </div>
 
       <div class="sv-card">
